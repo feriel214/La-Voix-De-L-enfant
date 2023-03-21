@@ -69,6 +69,6 @@ This project allowed me to develop my skills in web development, particularly in
     <img src="https://github.com/feriel214/La-Voix-De-L-enfant/blob/main/assets/12.PNG" alt="contact_page" >
 </div>
 
-#✨ Let’s Connect and Build Something Amazing Together
+# ✨ Let’s Connect and Build Something Amazing Together
 - Reach me out on LinkedIn: https://www.linkedin.com/in/feriel-zarrouki-1ba917186/
 
